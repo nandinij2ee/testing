@@ -1,0 +1,11 @@
+git config --global user.name "nandinij2ee"
+git config --global user.email "nandini06.java@gmail.com"
+git init <project_folder>
+cd <project_folder>
+git status
+git add .
+git status
+git rm --cached <file name>
+git status
+git commit -m "initial commait"
+git log
