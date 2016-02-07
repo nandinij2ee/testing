@@ -9,4 +9,4 @@ git rm --cached <file name>
 git status
 git commit -m "initial commait"
 git log
-hi
+hi how
